@@ -5,10 +5,10 @@ En este repositorio de GitHub se encuentra el proyecto de mineria de datos sigla
 
 ## Integrantes
 * **Jose Garcia** — `josegdotcom`
-* **[Nombre integrante]** — `Nombre GITHUB`
-* **[Nombre integrante]** — `Nombre GITHUB`
-* **[Nombre integrante]** — `Nombre GITHUB`
-* **[Nombre integrante]** — `Nombre GITHUB`
+* **Felipe Hermosilla** — `hovyman`
+* **Santiago González** — `santigb5`
+* **Luis Parraguez** — `luch0o0`
+* **[DB]** — `Nombre GITHUB`
 
 ---
 
